@@ -156,6 +156,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RandomColor: {r: 0, g: 0, b: 0, a: 0}
+  RandomScale: {x: 0, y: 0, z: 0}
+  RandomPosition: {x: 0, y: 0, z: 0}
 --- !u!136 &695671287
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -402,8 +404,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0.037769075, y: 0.04105642, z: -0.001538928, w: -0.9984415}
+  m_LocalPosition: {x: 0.74086833, y: 0.6836593, z: -8.993164}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
